@@ -13,4 +13,3 @@ cd /etc/init.d
 wget https://raw.githubusercontent.com/Allar/linux-perforce-installer/master/p4dservice
 chmod +x /etc/init.d/p4dservice
 sudo update-rc.d p4dservice defaults
-sudo reboot
